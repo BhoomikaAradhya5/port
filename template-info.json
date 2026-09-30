@@ -1,0 +1,19 @@
+{
+  "template_name": "Techsoln - Personal Portfolio & Engineer Resume Template",
+  "template_id": "tooplate_2145_techsoln",
+  "version": "1.0.0",
+  "author": "Tooplate Templates",
+  "author_url": "https://www.tooplate.com",
+  "description": "A high-performance, dark/light responsive HTML5 & CSS3 template designed for computer science students, developers, and engineers.",
+  "technologies": ["HTML5", "CSS3", "JavaScript (ES6)", "FontAwesome 6", "Google Fonts"],
+  "features": [
+    "Dark / Light theme toggle",
+    "Animated typing text tagline",
+    "Interactive project detail popups",
+    "Dynamic skills filter",
+    "1-click email/phone copy",
+    "Contact form validation with toast notifications",
+    "100% Mobile Responsive Grid layout"
+  ],
+  "license": "CC BY 4.0 / Free Personal & Commercial Use"
+}

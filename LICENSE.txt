@@ -1,0 +1,16 @@
+Tooplate Free HTML Website Template License
+=============================================
+
+Template Name: Techsoln - Developer & Engineer Portfolio HTML CSS Template
+Template ID: 2145
+Provided by: Tooplate (https://www.tooplate.com)
+
+License & Terms of Use:
+------------------------
+1. You are free to download, edit, customize, and use this template for both personal and commercial websites.
+2. You can use this template for client projects, personal portfolios, resume websites, and academic assignments.
+3. Redistribution of the original template package file (ZIP) as a template for download on another template collection site requires attribution link to Tooplate.
+4. No warranty or guarantee is provided with this free template package.
+
+Thank you for downloading and using Tooplate Templates!
+For more free responsive HTML CSS templates, visit: https://www.tooplate.com
